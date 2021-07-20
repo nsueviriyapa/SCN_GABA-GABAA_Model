@@ -13,4 +13,4 @@ UPDATEs in progress*
 
 Link https://bit.ly/3p4v4zO
 
-Password: the last 5-digit number of the DOI link for reference [98] of the main manuscript submitted to the journal for review (please see line 629 at page 27 of 33).
+Password: the last 5-digit number of the DOI link for reference [98] of the original manuscript submitted to the journal for review (please see line 629 at page 27 of 33).
