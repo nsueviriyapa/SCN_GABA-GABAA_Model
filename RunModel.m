@@ -1,7 +1,7 @@
 clear all; close all; clc;  
 
 
-%% Set up GABA/GABAA conditions 
+%% Set up GABA/GABAA conditions
 
 xaa_t          = [ 1.00  1.00   1.00   1.00    1.00];                %Changing only delta GABAA receptor expression levels
 xaa_p          = [ 1.00  1.00   1.00   1.00    1.00];                %Changing only gamma GABAA receptor expression levels
@@ -16,7 +16,7 @@ xaa_VIP         = [ 1  1  1  1  1];                   % Controlling overall VIP 
 xaa_scenario    = [ 0  25  50 75  100];               % Scenario: different varitions in GABAA receptor expression or GABA signaling levels
 
            
-%% Run simulations           
+%% Run simulations
            
 
 for w= 1:length(xaa_scenario)           %Number of scenarios
