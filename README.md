@@ -1,5 +1,7 @@
 # SCN_GABA-GABAA_Model
 
-UPDATEs in progress*  
+This repository contains MATLAB codes written for the networked SCN oscillator model with the detailed GABAergic mechanisms and related signaling pathways at synaptic and extra-synaptic regions. 
 
-*Note: This repository will contain MATLAB codes written for the networked SCN oscillator model with the detailed GABAergic mechanisms and related signaling pathways at synaptic and extra-synaptic regions. The codes will be made publicly accessible once the research work has been submitted for review by the journal and officially accepted for publication.
+Reference
+
+Sueviriyapan Natthapong, Granados-Fuentes Daniel, Simon Tatiana, Herzog Erik D. and Henson Michael A. 2021Modelling the functional roles of synaptic and extra-synaptic γ-aminobutyric acid receptor dynamics in circadian timekeepingJ. R. Soc. Interface.182021045420210454 http://doi.org/10.1098/rsif.2021.0454
